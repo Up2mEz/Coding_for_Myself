@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1669449047 source:d:\nack work\project1\c\ex1.c
-	<stdio.h>
-
-1669451391 source:d:\nack work\project1\c\ex2.c
-	<stdio.h>
-	<conio.h>
-
